@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+tqdm
+statsmodels
+prophet
+torch
+pytorch-lightning
+pytorch-forecasting
