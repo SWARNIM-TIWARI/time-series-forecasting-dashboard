@@ -21,17 +21,17 @@ In many cases, simpler statistical models (ARIMA, Prophet) produce more stable f
 
 ## 📂 Project Structure
 
-📁 time-series-forecasting-dashboard
-├── 📄 app.py
-├── 📄 merge_stocks.py
-├── 📄 requirements.txt
-├── 📄 README.md
-├── 📁 individual_stocks
-│ ├── 📄 WMT_2006-01-01_to_2018-01-01.csv
-│ ├── 📄 XOM_2006-01-01_to_2018-01-01.csv
-│ ├── 📄 all_stocks_2006-01-01_to_2018-01-01.csv
-│ └── 📄 all_stocks_2017-01-01_to_2018-01-01.csv
-└── 📁 processed_stocks
+time-series-forecasting-dashboard/
+├── app.py
+├── merge_stocks.py
+├── requirements.txt
+├── README.md
+├── individual_stocks/
+│   ├── WMT_2006-01-01_to_2018-01-01.csv
+│   ├── XOM_2006-01-01_to_2018-01-01.csv
+│   ├── all_stocks_2006-01-01_to_2018-01-01.csv
+│   └── all_stocks_2017-01-01_to_2018-01-01.csv
+└── processed_stocks/
 
 ## ▶️ How to Run
 
