@@ -41,7 +41,7 @@ time-series-forecasting-dashboard/
 ├── merge_stocks.py         # Preprocesses raw CSVs into standardized format
 ├── requirements.txt
 ├── README.md
-├── individual_stocks/      # Place your raw stock CSVs here
+├── individual_stocks/     
 │   ├── WMT_2006-01-01_to_2018-01-01.csv
 │   ├── XOM_2006-01-01_to_2018-01-01.csv
 │   ├── all_stocks_2006-01-01_to_2018-01-01.csv
@@ -130,10 +130,6 @@ All models are retrained fresh each session. There's no caching of trained weigh
 ## 📄 License
 
 MIT License
-
----
-
-*Built to compare forecasting approaches honestly — not to show that deep learning wins, but to see where it actually helps.*
 
 ---
 
